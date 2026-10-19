@@ -117,6 +117,7 @@ http://127.0.0.1:5000
 
 # Results & Conclusion
 <img width="713" height="962" alt="image" src="https://github.com/user-attachments/assets/bf77332e-80ae-47b2-be95-7ccc7dd47311" />
+
 The model successfully classifies spam and legitimate messages using machine learning techniques. The Stacking Ensemble model demonstrated strong classification performance and provides a practical approach for spam detection applications.
 
 # Future Work
